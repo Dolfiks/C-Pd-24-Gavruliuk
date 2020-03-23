@@ -1,0 +1,9 @@
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\bin\Debug\Calculator.exe.config
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\bin\Debug\Calculator.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\bin\Debug\Calculator.pdb
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Lab_1_Calculator.csprojAssemblyReference.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Lab_1_Calculator.csproj.GenerateResource.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Calculator.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Calculator.pdb
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_1_Calculator\obj\Debug\Calculator.Calculator.resources
