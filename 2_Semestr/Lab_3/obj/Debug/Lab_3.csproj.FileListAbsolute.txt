@@ -1,0 +1,9 @@
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\bin\Debug\Lab_3.exe.config
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\bin\Debug\Lab_3.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\bin\Debug\Lab_3.pdb
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab_Sem_2\Lab_3\obj\Debug\Lab_3.pdb
